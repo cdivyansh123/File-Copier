@@ -61,3 +61,6 @@ a file copy program that works exactly like a windows file copy mechanism with t
 
 
 ![Taking output from user](https://user-images.githubusercontent.com/85683019/214256080-2982debc-86c4-4c87-a6c2-90c5d24c7752.png)
+
+
+![After running code](https://user-images.githubusercontent.com/85683019/214256266-a0a3aeba-e274-4aac-8baf-28a0641b7685.png)

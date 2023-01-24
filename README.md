@@ -1,5 +1,6 @@
 # File-Copier
-a file copy program that works exactly like a windows file copy mechanism with the functionalities described below:   • It will ask the user for the file name which needs to be copied. • If the input file exists then it will copy that file into a new file name with exact conventions followed by windows. (i.e. “- Copy”, “- Copy (2)” etc.)
+a file copy program that works exactly like a windows file copy mechanism with the functionalities described below:   
+• It will ask the user for the file name which needs to be copied. • If the input file exists then it will copy that file into a new file name with exact conventions followed by windows. (i.e. “- Copy”, “- Copy (2)” etc.)
 
 <h3>Description</h3>
  In this program we will see how we can create file copier program which works exactly like windows file copy mechanism with functionalities described as below.
@@ -57,3 +58,6 @@ a file copy program that works exactly like a windows file copy mechanism with t
 
 
 ![before running code1](https://user-images.githubusercontent.com/85683019/214255837-cd87a9cc-1300-4c2d-88cc-73a021259d81.png)
+
+
+![Taking output from user](https://user-images.githubusercontent.com/85683019/214256080-2982debc-86c4-4c87-a6c2-90c5d24c7752.png)
